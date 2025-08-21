@@ -1,4 +1,9 @@
-## Hi there 👋
+I’m a Software Developer in the School of Medical Sciences at the University of Leicester. My background is in agricultural sciences, especially potatoes! 
+
+[:globe_with_meridians:](https://yourapp.com)
+
+
+
 
 <!--
 **simon-smart88/simon-smart88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
