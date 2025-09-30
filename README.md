@@ -8,10 +8,10 @@ I’m a Software Developer in the School of Medical Sciences at the University o
 
 ### Talks and workshops
 
-- [Intro to Shiny workshop](https://github.com/simon-smart88/shinyworkshop) for the Natural History Museum
-- [Shinyscholar departmental seminar](https://github.com/simon-smart88/shinyscholar_seminar)
-- [Shinyscholar workshop for Ukraine](https://github.com/simon-smart88/shinyscholar_workshop) watch the recording [here](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.svl2ujruwf92)
-- [Shinyscholar talk at RSECon25](https://github.com/simon-smart88/shinyscholar_rsecon)
+- Intro to Shiny workshop [:computer:](https://github.com/simon-smart88/shinyworkshop) [:globe_with_meridians:](https://simon-smart88.github.io/shinyworkshop/slides.html) for the Natural History Museum
+- Shinyscholar departmental seminar [:computer:](https://github.com/simon-smart88/shinyscholar_seminar) [:globe_with_meridians:](https://simon-smart88.github.io/shinyscholar_seminar/ss_seminar.html)
+- Shinyscholar workshop for Ukraine [:computer:](https://github.com/simon-smart88/shinyscholar_workshop) [:globe_with_meridians:](https://simon-smart88.github.io/shinyscholar_workshop/slides/shinyscholar_workshop.html) watch the recording [here](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.svl2ujruwf92)
+- Shinyscholar talk at RSECon25 [:computer:](https://github.com/simon-smart88/shinyscholar_rsecon) [:globe_with_meridians:](https://simon-smart88.github.io/shinyscholar_rsecon/slides.html)
 
 ### Personal apps
 
