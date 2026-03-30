@@ -19,3 +19,6 @@ I’m a Software Developer in the School of Medical Sciences at the University o
 - Savage patterns [:computer:](https://github.com/simon-smart88/savage-patterns) [:globe_with_meridians:](https://simonsmart.shinyapps.io/savage-patterns/) for creating animated SVG patterns.
 - Gasbench [:computer:](https://github.com/simon-smart88/gasbench) [:globe_with_meridians:](https://simonsmart.shinyapps.io/gasbench/) a python shiny dashboard for benchmarking domestic gas usage.
 
+### Blogs
+
+- Seeing the forest for the lines - Scaling complex base plots in Shiny [:computer:](https://github.com/simon-smart88/forest_plot_blog) [:globe_with_meridians:](https://simon-smart88.github.io/forest_plot_blog/forest_blog.html)
