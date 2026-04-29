@@ -14,7 +14,7 @@ I’m a Software Developer in the School of Medical Sciences at the University o
 - Shinyscholar talk at RSECon25 [:computer:](https://github.com/simon-smart88/shinyscholar_rsecon) [:globe_with_meridians:](https://simon-smart88.github.io/shinyscholar_rsecon/slides.html)
 - MetaInsight talk at NHSR 2025 [:computer:](https://github.com/simon-smart88/metainsight_nhsr) [:globe_with_meridians:](https://simon-smart88.github.io/metainsight_nhsr/slides.html)
 - MetaInsight CRSU seminar [:computer:](https://github.com/simon-smart88/metainsight_crsu) [:globe_with_meridians:](https://simon-smart88.github.io/metainsight_crsu/metainsight_crsu_seminar.html)
-
+- MetaInsight talk at R/Medicine 2026 [:computer:](https://github.com/simon-smart88/metainsight_rmedicine) [:globe_with_meridians:](https://simon-smart88.github.io/metainsight_rmedicine/slides.html)
 
 ### Personal apps
 
