@@ -1,4 +1,4 @@
-I’m a Software Developer in the School of Medical Sciences at the University of Leicester. My background is in agricultural sciences, especially potatoes. I develop shiny apps, with a particular focus on enabling reproducibility.
+I’m a Research Software Engineer in the Department of Applied Health Sciences at the University of Birmingham. My background is in agricultural sciences, especially potatoes and I was previously based in the School of Medical Sciences at the University of Leicester. I work in R, with a particular focus on developing reproducible shiny apps for conducting complex analyses.
 
 ### Apps and packages
 
