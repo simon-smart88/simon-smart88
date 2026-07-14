@@ -4,7 +4,8 @@ I’m a Research Software Engineer in the Department of Applied Health Sciences 
 
 - Shinyscholar [:computer:](https://github.com/simon-smart88/shinyscholar) [:globe_with_meridians:](https://simonsmart.shinyapps.io/shinyscholar/) a template for making reproducible analytical shiny apps. Forked from Wallace.
 - Disagapp [:computer:](https://github.com/simon-smart88/disagapp) [:globe_with_meridians:](https://disagapp.le.ac.uk) for conducting disaggregation regression, which can produce high resolution predictions from data aggregated into polygons.
-- MetaInsight [:computer:](https://github.com/CRSU-Apps/MetaInsight/tree/shinyscholar) [:globe_with_meridians:](https://crsu.shinyapps.io/MetaInsight_Scholar/) refactoring an existing app for network metaanalysis to the shinyscholar framework.
+- MetaInsight [:computer:](https://github.com/CRSU-Apps/MetaInsight) [:globe_with_meridians:](https://crsu.shinyapps.io/MetaInsight) refactoring an existing app for network metaanalysis to the shinyscholar framework.
+- RiskMap [:computer:](https://github.com/claudiofronterre/RiskMap) a package for model based geostatistics with particular application to mapping of neglected tropical diseases.
 
 ### Talks and workshops
 
